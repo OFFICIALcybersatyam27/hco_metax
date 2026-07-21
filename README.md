@@ -102,7 +102,7 @@ python hco_metax.py
 ​💬 WhatsApp Group: Join Official WhatsApp Matrix
 ​✈️ Telegram Portal: Join Official Telegram Channel
 ​<p align="center">
-<b>This tool is Coded with ❤️ by Azhar</b>
+<b>This tool is Coded with ❤️ by SRY-OFFICIAL_cyber_satyam27</b>
 
-<sub>© Hackers Colony Tech Ecosystem. All rights reserved.</sub>
+<sub>© OFFICIAL_cyber_satyam27. All rights reserved.</sub>
 </p>
